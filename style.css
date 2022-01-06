@@ -1,0 +1,9 @@
+.box{
+    width: 100%;
+    box-shadow: 0 0 12px #555;
+    margin: 15px 0;
+}
+
+.box img{
+    width: 100%;
+}
